@@ -167,11 +167,3 @@ Pull requests são bem-vindos! Para mudanças importantes, abra uma issue primei
 
 **Projeto educacional para comunidade maker**
 
-![Dente de Serra 0 796Khz](https://github.com/user-attachments/assets/513a6531-1efd-4071-8c0b-f55eab16304d)
-![Senoide 2 196 Khz](https://github.com/user-attachments/assets/b1fa609d-5585-4416-b0c3-ec654c057170)
-![Senoide 1 418 Khz](https://github.com/user-attachments/assets/1b8c9a4b-f63b-4628-9386-a25310b6a7a2)
-![Senoide 0 815 Khz](https://github.com/user-attachments/assets/811c1c18-d93a-4844-9247-3d89db8f4dab)
-![Senoide 0 300Khz](https://github.com/user-attachments/assets/4c28fd49-5bb0-4f74-9da3-6924dc794f2b)
-![Senoide 0 238Khz](https://github.com/user-attachments/assets/6fdc8a39-0dad-428d-aea4-9b2637a2546c)
-![Quadrada 0 818Khz](https://github.com/user-attachments/assets/8d2e95d7-7871-4273-af65-1d20672347d5)
-![Montagem do ESP 32](https://github.com/user-attachments/assets/99814cfb-010c-4430-98d4-039499c6760c)
